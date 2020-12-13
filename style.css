@@ -1,0 +1,43 @@
+body {
+    background-color: #292929;
+}
+
+.main-header {
+    background: url(../images/headphone.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Poppins';
+    font-size: 40px;
+}
+
+.brand-logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    height: 35px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+.sidenav {
+    background-color: #292929;
+    color: #ffffff;
+}
+
+.heropage {
+    padding-top: 100px;
+    color: #ffffff;
+}
+
+.btn {
+    font-weight: lighter;
+    color: #292929;
+    border-radius: 10px;
+    background-color: #0AE973;
+}
+
+.page-footer {
+    background-color: #292929;
+}
+
