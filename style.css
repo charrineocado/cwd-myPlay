@@ -12,8 +12,6 @@ body {
 }
 
 .brand-logo {
-    display: inline-block;
-    vertical-align: top;
     width: 100px;
     height: 35px;
     margin-right: 20px;
@@ -31,7 +29,7 @@ body {
 }
 
 .btn {
-    font-weight: lighter;
+    font-weight: normal;
     color: #292929;
     border-radius: 10px;
     background-color: #0AE973;
